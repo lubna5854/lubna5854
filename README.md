@@ -9,7 +9,7 @@ Let's connect and explore the possibilities together – you can reach me via Li
 
 - 👋 Hi, I’m @lubna
 - 👀 I’m interested in Data science and Python development
-- 🌱 I’m currently learning JSON and Master of Python
+- 🌱 I’m currently learning JavaScript and Master of Python
 - 📫 How to reach me: https://www.linkedin.com/in/lubna-a-p-483914237/
 
 <!---
